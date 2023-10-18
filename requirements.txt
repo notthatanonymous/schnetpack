@@ -1,5 +1,5 @@
-PyYAML
---index-url https://pypi.python.org/simple/
+#PyYAML
+#--index-url https://pypi.python.org/simple/
 
 torch>=1.9
 pytorch_lightning>=1.5.10
@@ -8,17 +8,17 @@ hydra-core>=1.1.0
 hydra-colorlog>=1.1.0
 numpy
 ase>=3.21
-torchmetrics>=0.11.4,<=1.0.1
+torchmetrics>=0.8.2,<=1.0.1
 h5py
 tqdm
-pytest
-pytest-datadir
+#pytest
+#pytest-datadir
 sympy
 torch_ema
 rich
 fasteners
-matscipy
-tensorboard
+#matscipy
+#tensorboard
 
-pre-commit
-black
+#pre-commit
+#black
