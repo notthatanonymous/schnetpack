@@ -3,12 +3,12 @@ PyYAML
 
 torch>=1.9
 pytorch_lightning>=1.5.10
-protobuf==3.20.2
+protobuf>=3.19.6,<=3.20.2
 hydra-core>=1.1.0
 hydra-colorlog>=1.1.0
 numpy
 ase>=3.21
-torchmetrics==1.0.1
+torchmetrics>=0.11.4,<=1.0.1
 h5py
 tqdm
 pytest
